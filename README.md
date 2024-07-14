@@ -1,5 +1,5 @@
+<img alt="Banner" src="samidev banner.svg" width='40' align="left"/>
 ## Hi there 👋
-<img alt="Banner" src="samidev banner" width='40' align="left"/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,notion,css,figma,github,html,linux,windows,vscode,mb" />
