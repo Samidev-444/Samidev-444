@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,figma,github,html,js,linux,vscode,kubernetes&perline=14" />
+  </a>
+</p>
+
 <!--
 **Samidev-444/Samidev-444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
