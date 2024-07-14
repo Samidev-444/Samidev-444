@@ -6,7 +6,7 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samideveloper1210@gmail.com)
   
 </div>
-<h1 align="center"> Hi there 👋</h1>
+<h1 align="center"> Hi there 👋, I'm Samuel Concepción</h1>
 
 <h1>📎 Skills</h1>
 <p align="center">
