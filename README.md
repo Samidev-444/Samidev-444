@@ -6,7 +6,7 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samideveloper1210@gmail.com)
   
 </div>
-<h1> Hi there 👋</h1>
+<h1 align="center"> Hi there 👋</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,notion,css,figma,github,html,linux,windows,vscode,mb" />
