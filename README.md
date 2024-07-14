@@ -15,7 +15,7 @@
 </p>
 
 <br>
-<hr>
+<h1></h1>
 <h1>📎 Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
