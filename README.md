@@ -19,7 +19,7 @@
 
 <h1>👨🏻‍💻 About me</h1>
 <p>
-  <font face="Inter">
+  <font face="Inter" size="4">
   I am a student passionate about continuous learning and looking for work experience to develop and expand my knowledge. I love working in a team and I consider myself a responsible, organized and adaptable person to different areas. I am committed to personal and professional growth, and always willing to face new challenges.
   </font>
 </p>
