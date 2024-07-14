@@ -1,3 +1,7 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+
 <img alt="Banner" src="banner-perfil.jpg" align="center"/>
 <div align="center">
 
@@ -15,5 +19,7 @@
 
 <h1>👨🏻‍💻 About me</h1>
 <p>
+  <font face="Inter">
   I am a student passionate about continuous learning and looking for work experience to develop and expand my knowledge. I love working in a team and I consider myself a responsible, organized and adaptable person to different areas. I am committed to personal and professional growth, and always willing to face new challenges.
+  </font>
 </p>
