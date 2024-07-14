@@ -17,10 +17,9 @@
 <br>
 <h1></h1>
 <h1>📎 Habilidades</h1>
+<br>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,notion,css,figma,github,html,windows,vscode" />
-  </a>
 </p>
 
 
