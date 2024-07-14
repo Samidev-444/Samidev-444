@@ -1,4 +1,4 @@
-<img alt="Banner" src="samidev banner.svg" width='' align="center"/>
+<img alt="Banner" src="banner.jpg" align="center"/>
 ## Hi there 👋
 <p align="center">
   <a href="https://skillicons.dev">
