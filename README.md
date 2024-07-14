@@ -1,4 +1,4 @@
-<img alt="Banner" src="banr.jpg" align="center"/>
+<img alt="Banner" src="banner-perfil.jpg" align="center"/>
 ## Hi there 👋
 <p align="center">
   <a href="https://skillicons.dev">
