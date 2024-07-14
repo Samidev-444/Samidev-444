@@ -8,6 +8,12 @@
 </div>
 <h1 align="center"> Hi there 👋, I'm Samuel Concepción</h1>
 
+<h1>👨🏻‍💻 About me</h1>
+<p>
+  I am a student passionate about continuous learning and looking for work experience to develop and expand my knowledge. I love working in a team and I consider myself a responsible, organized and adaptable person to different areas. I am committed to personal and professional growth, and always willing to face new challenges.
+ 
+</p>
+
 <h1>📎 Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -15,8 +21,4 @@
   </a>
 </p>
 
-<h1>👨🏻‍💻 About me</h1>
-<p>
-  I am a student passionate about continuous learning and looking for work experience to develop and expand my knowledge. I love working in a team and I consider myself a responsible, organized and adaptable person to different areas. I am committed to personal and professional growth, and always willing to face new challenges.
- 
-</p>
+
