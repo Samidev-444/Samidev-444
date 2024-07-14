@@ -6,17 +6,14 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samideveloper1210@gmail.com)
   
 </div>
-## Hi there 👋
+<h1> Hi there 👋</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,notion,css,figma,github,html,linux,windows,vscode,mb" />
   </a>
 </p>
 
-<!--
-**Samidev-444/Samidev-444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1>👨🏻‍💻 About me</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -26,4 +23,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
